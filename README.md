@@ -4,4 +4,4 @@
  
  My essential motive at the back of Helmet and Number Plate Detection and Recognition were to first stumble on if someone is sporting a helmet or not, if he's sporting it, no problem, but if not, locate his quantity plate and ship an e-challan to him.
  
- #Objective of the work
+ # Objective of the work
